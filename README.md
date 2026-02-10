@@ -29,31 +29,6 @@ I'm a **Senior Software Engineer** with **5+ years** of experience building **sc
 
 These are my primary projects where I've contributed as a core developer and architect:
 
-### 🏋️ [Join2Gym](https://github.com/join2gym) - Smart Gym Management Platform
-> **Role:** Backend Architect & Lead Developer
-
-A comprehensive gym and fitness management system with intelligent scheduling, member management, and workout tracking capabilities.
-
-**Tech Stack:** `Spring Boot` `Microservices` `PostgreSQL` `Redis` `Docker` `Kubernetes`
-
-**Key Features:**
-- 💪 Member management and subscription handling
-- 📅 Class scheduling with capacity management
-- 💳 Payment processing and invoicing
-- 📊 Analytics dashboard for gym owners
-- 📱 Mobile-friendly REST APIs
-- 🔐 OAuth2 authentication with Keycloak
-
-**Architecture Highlights:**
-- Event-driven microservices architecture
-- CQRS pattern for read/write optimization
-- Real-time notifications with WebSockets
-- Scalable to handle thousands of concurrent users
-
-[🔗 View Organization →](https://github.com/join2gym)
-
----
-
 ### 🏥 [PhysiotherapyAI](https://github.com/physiotherapy-ai) - AI-Powered Rehabilitation Platform
 > **Role:** Full-Stack Developer & ML Integration Specialist
 
@@ -76,6 +51,31 @@ An innovative platform leveraging AI to provide personalized physiotherapy exerc
 - Integration of wearable device data
 
 [🔗 View Organization →](https://github.com/physiotherapy-ai)
+
+---
+
+### 🏋️ [Join2Gym](https://github.com/join2gym) - Smart Gym Management Platform
+> **Role:** Backend Architect & Lead Developer
+
+A comprehensive gym and fitness management system with intelligent scheduling, member management, and workout tracking capabilities.
+
+**Tech Stack:** `Spring Boot` `Microservices` `PostgreSQL` `Redis` `Docker` `Kubernetes`
+
+**Key Features:**
+- 💪 Member management and subscription handling
+- 📅 Class scheduling with capacity management
+- 💳 Payment processing and invoicing
+- 📊 Analytics dashboard for gym owners
+- 📱 Mobile-friendly REST APIs
+- 🔐 OAuth2 authentication with Keycloak
+
+**Architecture Highlights:**
+- Event-driven microservices architecture
+- CQRS pattern for read/write optimization
+- Real-time notifications with WebSockets
+- Scalable to handle thousands of concurrent users
+
+[🔗 View Organization →](https://github.com/join2gym)
 
 ---
 
