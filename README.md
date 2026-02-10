@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raziyeh--sharifi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/raziyeh-sharifi)
 [![Email](https://img.shields.io/badge/Email-RosaSharifi1997%40gmail.com-red?style=flat-square&logo=gmail)](mailto:RosaSharifi1997@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/RosaSharifi?style=flat-square&logo=github)](https://github.com/RosaSharifi)
 
 </div>
 
