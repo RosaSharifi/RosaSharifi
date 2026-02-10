@@ -109,7 +109,7 @@ A robust, enterprise-grade authentication and authorization server supporting mu
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-Learning-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql)
 
 ### **Frameworks & Libraries**
