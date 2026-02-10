@@ -110,7 +110,7 @@ A robust, enterprise-grade authentication and authorization server supporting mu
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql)
 
 ### **Frameworks & Libraries**
@@ -130,18 +130,6 @@ A robust, enterprise-grade authentication and authorization server supporting mu
 
 ### **Architecture & Design**
 `Microservices` `Design Patterns` `SOLID Principles` `Clean Code` `DDD` `CQRS` `Event Sourcing`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RosaSharifi&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaSharifi&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
