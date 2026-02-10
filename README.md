@@ -164,9 +164,9 @@ A robust, enterprise-grade authentication and authorization server supporting mu
 
 ## 🎯 Current Goals
 
-- 🎓 Pursuing **Master's in Software Engineering** at Saxion University (Netherlands)
-- 🤖 Transitioning into **AI & Computer Vision** through Master's in Computer Vision & Data Science at NHL Stenden
-- 📚 Deepening knowledge in **Machine Learning**, **Deep Learning**, and **Computer Vision** algorithms
+- 🎓 Pursuing **Master's degree in Software Engineering & Data Science** in Europe
+- 🤖 Expanding expertise in **AI, Machine Learning & Computer Vision** technologies
+- 📚 Deepening knowledge in **Deep Learning algorithms** and **computer vision applications**
 - 🌍 Contributing to **open-source projects** in AI and cloud-native ecosystems
 - 👩‍🏫 Mentoring aspiring software engineers, especially women in technology
 
