@@ -1,5 +1,7 @@
 <div align="center">
 
+![GitHub Banner](./file_1770722675348.jpg)
+
 # 👋 Hi, I'm Rosa Sharifi
 
 ### Senior Software Engineer | Microservices Architect | AI Enthusiast
