@@ -29,7 +29,7 @@ I'm a **Senior Software Engineer** with **5+ years** of experience building **sc
 
 These are my primary projects where I've contributed as a core developer and architect:
 
-### 🏥 [PhysiotherapyAI](https://github.com/physiotherapy-ai) - AI-Powered Rehabilitation Platform
+### 🏥 [PhysiotherapyAI](https://github.com/physiotherapy-ai/physiotherapy-ai) - AI-Powered Rehabilitation Platform
 > **Role:** Full-Stack Developer & ML Integration Specialist
 
 An innovative platform leveraging AI to provide personalized physiotherapy exercises and progress tracking for patients.
