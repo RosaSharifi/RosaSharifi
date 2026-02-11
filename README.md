@@ -122,7 +122,7 @@ A robust, enterprise-grade authentication and authorization server supporting mu
 `JUnit` `Mockito` `Integration Testing` `TDD`
 
 ### **Architecture & Design**
-`Microservices` `Design Patterns` `SOLID Principles` `Clean Code'
+`Microservices` `Design Patterns` `SOLID Principles` `Clean Code`
 
 ---
 
