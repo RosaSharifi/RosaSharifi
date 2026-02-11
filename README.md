@@ -17,8 +17,6 @@
 
 I'm a **Senior Software Engineer** with **5+ years** of experience building **scalable microservices** and **distributed systems** for mission-critical financial platforms. Currently working at **Behpardakht Mellat**, where I architect systems processing **100,000+ daily transactions** serving 50+ companies.
 
-🎓 **Currently:** Applying for Master's programs in **Software Engineering** and **Computer Vision & Data Science** in the Netherlands
-
 🔭 **Focus Areas:** Microservices Architecture, Cloud-Native Technologies, Event-Driven Systems, AI/ML
 
 🌱 **Learning:** Computer Vision, Deep Learning, Python for AI, Advanced System Design
@@ -42,10 +40,8 @@ An innovative platform leveraging AI to provide personalized physiotherapy exerc
 - 📈 Progress tracking with data visualization
 - 👨‍⚕️ Therapist-patient communication portal
 - 📱 Mobile app integration
-- 🔒 HIPAA-compliant data handling
 
 **Innovation:**
-- Machine learning models for exercise personalization
 - Real-time pose estimation using OpenCV
 - Predictive analytics for recovery timelines
 - Integration of wearable device data
@@ -59,12 +55,11 @@ An innovative platform leveraging AI to provide personalized physiotherapy exerc
 
 A comprehensive gym and fitness management system with intelligent scheduling, member management, and workout tracking capabilities.
 
-**Tech Stack:** `Spring Boot` `Microservices` `PostgreSQL` `Redis` `Docker` `Kubernetes`
+**Tech Stack:** `Spring Boot` `Microservices` `PostgreSQL` `Redis` `Docker'
 
 **Key Features:**
 - 💪 Member management and subscription handling
 - 📅 Class scheduling with capacity management
-- 💳 Payment processing and invoicing
 - 📊 Analytics dashboard for gym owners
 - 📱 Mobile-friendly REST APIs
 - 🔐 OAuth2 authentication with Keycloak
@@ -84,7 +79,7 @@ A comprehensive gym and fitness management system with intelligent scheduling, m
 
 A robust, enterprise-grade authentication and authorization server supporting multiple protocols and SSO capabilities.
 
-**Tech Stack:** `Spring Security` `OAuth2` `OpenID Connect` `JWT` `Keycloak` `Redis` `PostgreSQL`
+**Tech Stack:** `Spring Security` `OAuth2` `JWT` `Redis` `PostgreSQL`
 
 **Key Features:**
 - 🔑 Multi-tenant authentication server
@@ -98,7 +93,6 @@ A robust, enterprise-grade authentication and authorization server supporting mu
 - Industry-standard encryption (AES-256, RSA)
 - Rate limiting and brute-force protection
 - Multi-factor authentication (MFA)
-- Integration with LDAP/Active Directory
 - Compliance with OWASP security standards
 
 [🔗 View Organization →](https://github.com/AuthServerProjects)
@@ -116,36 +110,36 @@ A robust, enterprise-grade authentication and authorization server supporting mu
 `Spring Boot` `Spring Cloud` `Spring Security` `Hibernate` `JPA` `Microservices` `REST APIs`
 
 ### **Cloud & DevOps**
-`Docker` `Kubernetes` `OKD (OpenShift)` `CI/CD` `GitHub Actions` `Maven` `Git`
+`Docker` `Kubernetes` `CI/CD` `GitHub Actions` `Maven` `Git`
 
 ### **Databases**
-`PostgreSQL` `Oracle` `MongoDB` `Redis` `ElasticSearch`
+`PostgreSQL` `Oracle` `MongoDB` `Redis`
 
 ### **Messaging & Streaming**
 `Apache Kafka` `RabbitMQ` `Event-Driven Architecture`
 
 ### **Testing**
-`JUnit` `Mockito` `Integration Testing` `TDD` `Test Coverage (JaCoCo)`
+`JUnit` `Mockito` `Integration Testing` `TDD`
 
 ### **Architecture & Design**
-`Microservices` `Design Patterns` `SOLID Principles` `Clean Code` `DDD` `CQRS` `Event Sourcing`
+`Microservices` `Design Patterns` `SOLID Principles` `Clean Code'
 
 ---
 
 ## 💡 Professional Experience Highlights
 
-### **Behpardakht Mellat** | Senior Software Engineer
+### **Behpardakht Mellat** | Senior Java Developer
 *August 2024 - Present*
 
 - 🏦 Architected **SidePay** payment solution serving **500+ gas stations** with **30% faster** transaction processing
 - 💼 Contributed to **Comprehensive Wallet** platform processing **100,000+ daily transactions**
-- ☁️ Deployed microservices on **OKD (Kubernetes)** with **Kafka** and **RabbitMQ** for event-driven architecture
+- ☁️ Deployed microservices on **Kubernetes** with **Kafka** and **RabbitMQ** for event-driven architecture
 - 🎰 Designed secure lottery system for **10,000+ POS operators**
 
 ### **Fanap Co** | Java Developer
 *August 2020 - July 2024*
 
-- 📦 Developed **Purchasing Management** module for comprehensive ERP system with **20+ modules**
+- 📦 Developed **Purchasing Management** module for comprehensive ERP system with **20+ modules**, integerated with a **BPMS**.
 - 🔐 Implemented **OAuth2/OpenID Connect** authentication with **Keycloak** for multi-tenant architecture
 - 🔄 Designed vendor portal with secure API integration enabling real-time data synchronization
 
